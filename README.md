@@ -17,7 +17,6 @@
 [![Next](https://img.shields.io/badge/Next-2C2C2C?style=flat-square&logo=Next.js&logoColor=white)]()
 
 ![Hyojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinhyojeong&hide=stars&show_icons=true&theme=buefy)
-[![Hyojeong's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shinhyojeong&layout=compact)]()
 
 <br />
 
