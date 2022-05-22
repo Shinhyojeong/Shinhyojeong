@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=100&section=header&fontSize=50&animation=fadeIn&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17&height=100&section=header&fontSize=50&animation=fadeIn&fontAlignY=40)
 
 ### 📚 t e c h 📚
 
@@ -16,7 +16,7 @@
 ![Vue](https://img.shields.io/badge/Vue-43BB97?style=flat-square&logo=Vue.js&logoColor=white)
 ![Next](https://img.shields.io/badge/Next-2C2C2C?style=flat-square&logo=Next.js&logoColor=white)
 
-![Hyojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinhyojeong&hide=stars&show_icons=true&theme=buefy)
+![Hyojeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shinhyojeong&hide=stars&show_icons=true&theme=vue)
 
 <br />
 
@@ -25,6 +25,6 @@
 [![Blog](https://img.shields.io/badge/Blog-C598D0?style=flat-square&logoColor=white)](https://velog.io/@hyo_o)
 [![Mail](https://img.shields.io/badge/Mail-E09595?style=flat-square&logoColor=white)](mailto:hyojeonge0@naver.com)
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=14&height=100)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&customColorList=17&height=100)
 
 </div>
